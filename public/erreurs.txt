@@ -1,0 +1,10 @@
+Array
+(
+    [profilepic] => \profilepic{alice.jpeg}
+    [begin] => \begin{itemize}
+    [section] => \section{Other information}
+    [twentyitem] => \twentyitem{<dates>}
+    [end] => \end{document}
+    [twentyitemshort] => \twentyitemshort{<dates>}
+    [subsection] => \subsection{Review}
+)

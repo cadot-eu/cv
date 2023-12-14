@@ -1,0 +1,154 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{alice.jpeg} % Profile picture
+
+\cvname{Cadot Michaël} % Your name
+\cvjobtitle{Développeur passionné} % Job title/career
+
+\cvdate{05/09/1973} % Date of birth
+\cvaddress{rue de la verte louche 19, 7600 Peruweltz (Belgique)} % Short address/location, use \newline if more than 1 line is required
+\cvnumberphone{+32.47.74.15.76} % Phone number
+\cvsite{} % Personal website
+\cvmail{michael@cadot.eu} % Email address
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{J'ai programmé en basic, visual, autolisp, c, dos, bash, dcl, delphi, turbo-pascal, php, python, nodejs, js ... et pratiqué des expériences en électronique, mécanique, hydraulique, conception 3D ...} % To have no About Me section, just remove all the text and leave \aboutme{}
+
+%----------------------------------------------------------------------------------------
+%	 SKILLS
+%----------------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{{php/5.5},{javascript/4},{D3.js/3},{three.js/3.5},{bash/4},{blender/2.5},{docker/4},{symfony/4.5},{bootstrap/4},{dev-ops/3},{arduino/3.5}}
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+\skillstext{}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experiences mises en avant}
+{\scriptsize Liste complète: https://www.linkedin.com/in/michael-cadot\\}
+		
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{depuis 2021}{Formulaire interactif,UX et bash script pour transfert ancien site}{Ascain · à distance}{acqualys-picbleu · Freelance}{symfony - typesense - stimulus - hotwire - serveur - docker - mail - traefik - mysql - stripe - css - js - bash - cron - mariadb - UX - pdf}
+\twentyitem{2023 4 mois}{Chef de projet/ développeur, devops: nominatim, serveur mail}{Paris · à distance}{vazzy · Freelance}{symfony - serveur - docker - mail - stripe - bash - rabbitmq - nominatim - api - serveur jitsi Meet - création de docker spécifique - création de script bash - géolocalisation - devis - facture}
+\twentyitem{2022 1 an}{Application web et création visualiseur 3D, hiérarchie sous D3.js}{Bologne Italie - à distance}{apirads · Freelance}{typesense - stimulus - docker - mail - d3.js - js - latex - STL}
+\twentyitem{2021 2 ans}{Site web/ back-end et création d'un modélisateur 3D, export pdf}{Toulouse · à distance}{le cercueil écologique · Freelance}{symfony - serveur - docker - mail - traefik - stripe - three.js - d3.js - bootstrap - js - webpack - UX - STL - facture - svg - jquery}
+\twentyitem{2021 9 mois}{Application web pour la facturation médicale et le suivis des patients}{Rivesaltes · à distance}{la facturation médicale · Freelance}{symfony - bootstrap - postgresql - webpack - devis - facture - pdf - chat - agenda - jquery}
+\twentyitem{2021 4 mois}{Développeur d'un bot en nodejs pour achat en moins de 100 ms}{Lyon · à distance}{cryptofinal · Freelance}{bot - nodejs}
+\twentyitem{2020 7 ans}{Collectif national des prêtres-ouvriers}{Montreuil}{indépendant}{php - bootstrap - js - sentry - vanilla js - trello - easyadmin}
+\twentyitem{2001 - 20 ans}{Développeur web d'une trentaine de sites web}{France}{indépendant}{php - d3.js - bootstrap - html - js - codeigniter - paypal - jquery - wordpress - joomla - drupal - easyadmin}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}{<details>}
+\end{twenty}
+%----------------------------------------------------------------------------------------
+%	 INTERESTS
+%----------------------------------------------------------------------------------------
+\section{Études}
+
+\begin{twentyshort} % Environment for a short list with no descriptions
+	\twentyitemshort{2020}{Licence professionnelle de conception de solution digitale (HETIC, paris)}
+\twentyitemshort{2010}{Sociocratie sur 6 jours (Sociocratie France, lyon)}
+\twentyitemshort{1996}{BTS de Conception de produis industriels (dessin industriel, Argenteuil)}
+
+	%\twentyitemshort{<dates>}{<title/description>}
+\end{twentyshort}
+
+\section{Autres réalisations}
+\begin{itemize}
+	\item Création d'imprimantes 3D et CNC à partir de matériel de récupération.
+\item Construction d'un poêle de masse avec gestion électronique.
+\item Système IOT à base d'ESP8266 pour mesure de la température et humidité.
+\item Pilotage complet d'un lave-vaisselle par Arduino.
+
+  \end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+%	 PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\section{Réseaux}
+
+\begin{itemize}
+	\item Github: https://github.com/cadot-eu
+\item CodeGrepper: https://www.grepper.com/profile/cadoteu
+
+  \end{itemize}
+
+\section{Mon idéal}
+
+Je cherche à rejoindre une équipe 2/3 jours par semaine principalement en distanciel avec des réunions physiques pour préparer les tâches. 
+
+{\scriptsize Ce CV est créé à partir d'un extension chrome maison pour extraire les informations de linkedin et utilise un template Latex pour générer le pdf par du php. (code disponible dans github)}
+
+
+%----------------------------------------------------------------------------------------
+%	 SECOND PAGE EXAMPLE
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\makeprofile % Print the sidebar
+
+%\section{Mon idéal}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%\section{Mon idéal}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%----------------------------------------------------------------------------------------
+
+\end{document} 

@@ -1,0 +1,343 @@
+[
+    {
+        "poste": "Formulaire interactif,UX et bash script pour transfert ancien site",
+        "entreprise": "Acqualys-picbleu · Freelance",
+        "date": "depuis 2021",
+        "lieu": "Ascain · à distance",
+        "experience": "Technos: symfony, docker, docker-compose, mariadb, mysql, typesense, stimulus, hotwire, cron, bash, - Création de comparateur interactif avec affichage dynamique et exportation xls.- passage à symfony 5.4 LTS puis 6...- UX et différents nettoyages (css, librairies ...)- création de comparateur, simulateur, graphique en ligne intéractif- vue mobile- mise en place de tests- recherche dynamique intuitive avec typesense et stimulus (js)- module de paiement par Stripe- génération de pdf- formulaire intéractif avec création par back-end- utilisation des dernières technologies (stimulus, hotwire, typesense, es6 ...)- gestion du serveur et du serveur de mail (docker, traefik, docker-compose ...",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1881087607%29&trackingId=U6SuuDvIRouhSWB%2F%2F%2Fs%2BMA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1881087607/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635523491746&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1881087607/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635523489899&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1881087607/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635523496003&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/urn:li:fsd_profilePosition:(ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0,1881087607)/treasury?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0"
+        ]
+    },
+    {
+        "poste": "Chef de projet/ développeur, devops: nominatim, serveur mail",
+        "entreprise": "vazzy · Freelance",
+        "date": "2023 4 mois",
+        "lieu": "Paris · à distance",
+        "experience": "Technos: symfony, nominatim, géolocalisation, devis, facture, serveur jitsi Meet, docker, docker-compose, traeffik, serveur mail, rabbitmq, api, création de script bash, création de docker spécifique, stripe - Création en tant que développeur d'un site web pour vente immobilière- formulaire de devis- recherche d'artisans et de promoteur immobilier par localisation ou adresse avec remplissage automatique- management d'un SEO, intégrateur et graphiste.- installation d'un serveur pour outil de visioconférence, hébergement du site et outil de complémentation des adresses par openstreetmap",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C2244739860%29&trackingId=oLHj3ANXSMyOWy8spDJL2Q%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/2244739860/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635538712695&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/2244739860/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635538712696&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/2244739860/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635538716121&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/urn:li:fsd_profilePosition:(ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0,2244739860)/treasury?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0"
+        ]
+    },
+    {
+        "poste": "Application web et création visualiseur 3D, hiérarchie sous D3.js",
+        "entreprise": "apirads · Freelance",
+        "date": "2022 1 an",
+        "lieu": "Bologne Italie - à distance",
+        "experience": "Technos: latex,stimulus, typesense, d3.js,  mail, docker- Réalisation d'une application de recherche dans des documents scientifique du domaine vétérinaire, utilisation de Typesense- Création d'arbre hiérarchique sous D3.js- affichage de modèle 3D sous thapiradree.js- création de script python sous Blender pour modification de fichier STL",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1790839964%29&trackingId=zP88g%2FJaQo%2BspvUqolq%2FmQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1790839964/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635487947188&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1790839964/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635487946275&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1790839964/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635487944435&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/urn:li:fsd_profilePosition:(ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0,1790839964)/treasury?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0"
+        ]
+    },
+    {
+        "poste": "Site web/ back-end et création d'un modélisateur 3D, export pdf",
+        "entreprise": "le cercueil écologique · Freelance",
+        "date": "2021 2 ans",
+        "lieu": "Toulouse · à distance",
+        "experience": "Technos: three.js, d3.js, symfony, docker, serveur mail, svg, stl, bootstrap- Développement du back-end d'un site, mise en place d'une démarche UX et développement du front-end avec graphiste.- installation et gestion serveur sous docker avec traefik- back: symfony, webpack, sass- front: bootstrap, js, jquery, three.js, modification de svg par js- backup, export, boutique, création facture, paiement par Stripe",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1738804080%29&trackingId=X8Fu62DhQxCp0P5Mk4Rxuw%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1738804080/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635523489926&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1738804080/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635523494544&type=IMAGE"
+        ]
+    },
+    {
+        "poste": "Application web pour la facturation médicale et le suivis des patients",
+        "entreprise": "La facturation médicale · Freelance",
+        "date": "2021 9 mois",
+        "lieu": "Rivesaltes · à distance",
+        "experience": "-Réalisation d'une application sous symfony 5, webpack avec jquery, bootstrap en front.- Sécurisation des données- travail avec base de donnée-  gestion d'envoie de documents, scanne par téléphone, gestion clients., édition de facture, génération de pdf devis chat agenda postgresql ",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1772198804%29&trackingId=SxIQoyIPS3iKakRWqmXqAA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1772198804/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635476564536&type=IMAGE",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1772198804/multiple-media-viewer?profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0&treasuryMediaId=1635476564535&type=IMAGE"
+        ]
+    },
+    {
+        "poste": "développeur d'un bot en nodejs pour achat en moins de 100 ms",
+        "entreprise": "cryptofinal · Freelance",
+        "date": "2021 4 mois",
+        "lieu": "Lyon · à distance",
+        "experience": "Réalisation d'un nodejs bot pour acheter par mots clefs et vendre des cryptomonnaies",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1741977641%29&trackingId=aNrSqRCcRPej%2BcwiON69LQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/in/michael-cadot/details/experience/1635453611400/single-media-viewer?type=IMAGE&profileId=ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0"
+        ]
+    },
+    {
+        "poste": "collectif national des prêtres-ouvriers",
+        "entreprise": "Indépendant",
+        "date": "2020 7 ans",
+        "lieu": "Montreuil",
+        "experience": "Refonte du site actuel, mise en place des dernières technologies ( easyadmin 3, vuejs, php 8, bootstrap 5, vanilla js.Mise en place de sentry pour le suivis.Mise en place des étapes de création sur Trello.Création d'un rétro-planning.Travail sur l'expérience utilisateur.Création des templates (web, mobile et tablette), logos et bannière.Création d'une console d'administration.",
+        "image": [
+            "https://www.linkedin.com/search/results/all/?keywords=collectif+national+des+pr%C3%AAtres-ouvriers",
+            "https://www.linkedin.com/search/results/all/?keywords=collectif+national+des+pr%C3%AAtres-ouvriers",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1723844243%29&trackingId=hiZxJdF2QWmhZll7PCQGAA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/search/results/all/?keywords=Collectif+national+des+pr%C3%AAtres-ouvriers",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696156082%29&trackingId=B8zzQGG4TpWx%2FJQVb5iwig%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Développeur web d'une trentaine de sites web",
+        "entreprise": "Indépendant",
+        "date": "2001 - 20 ans",
+        "lieu": "France",
+        "experience": "Création d'une trentaine de sites webs pour des associations et des entreprises :- paroisse de Surgères, wordpress et création de plug-ins spécifique- paroisse de Rochefort, wordpress- la ferme de tante alouette, cms créer sur code igniter 4- la compagnie sur le feu, création d'un template avec scroll vertical et animation js avec D3.js- Site web pour sociocratie France sur base php sans js- Lonctiale, site statique html avec vitrine ebay- Damarys, site à base de php avec vitrine commerciale auto généré à base de fichier rtf- Sphener styliste, site sur base php avec administration personnalisée- Sancutuaire de Verdelais, base wordpress avec template modifié- Domaine St Martin site en php avec adminsitration simplifiée- codeigniter SNCF, création d'une page portail pour le service de communication interne- Actualis Versailles, création d'un CMS à base de php avec js- Domecia, wordpress- Collectif de la plancha, site sur base php avec modification inline- Forum habitat, création d'un site avec modification inline- Fais ton noel, site en php, bootstrap et jquery... paypal wordpress,joomla,drupal,easyadmin",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696153877%29&trackingId=OpUpuZm3QZCJz2Ey8z9dGA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Responsable projets web",
+        "entreprise": "Freelance · 7 ans 2 mois",
+        "date": "nov. 2020 - mars 2021 · 5 mois",
+        "lieu": "nov. 2020 - mars 2021 · 5 mois",
+        "experience": "Refonte du site actuel, mise en place des dernières technologies (symfony 5, easyadmin 3, vuejs, php 8, bootstrap 5, valilla js.Mise en place de sentry pour le suivis.Mise en place des étapes de création sur Trello.Création d'un rétro-planning.Travail sur l'expérience utilisateur.Création des templates (web, mobile et tablette), logos et bannière.Création d'une console d'administration.",
+        "image": [
+            "https://www.linkedin.com/search/results/all/?keywords=collectif+national+des+pr%C3%AAtres-ouvriers",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1723844243%29&trackingId=hiZxJdF2QWmhZll7PCQGAA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Développeur web",
+        "entreprise": "Freelance · 7 ans 2 mois",
+        "date": "févr. 2014 - nov. 2020 · 6 ans 10 mois",
+        "lieu": "nov. 2020 - mars 2021 · 5 mois",
+        "experience": "Réalisation d'un site web avec seo adapté aux visiteurs.",
+        "image": [
+            "https://www.linkedin.com/search/results/all/?keywords=Collectif+national+des+pr%C3%AAtres-ouvriers",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696156082%29&trackingId=B8zzQGG4TpWx%2FJQVb5iwig%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Concepteur électronique",
+        "entreprise": "Indépendant",
+        "date": "2018 - déc. 2020 · 3 ans",
+        "lieu": "nov. 2020 - mars 2021 · 5 mois",
+        "experience": "- construction d'une imprimante 3D à base de planches et d'une carte arduino avec des jeunes- Réalisation de robots sumo à base d'arduino",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696160549%29&trackingId=bCRUOFTtRj%2BB4HFAuhdx5w%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Instructeur",
+        "entreprise": "Maisons familiales rurales (MFR) · Indépendant",
+        "date": "sept. 2019 - juin 2020 · 10 mois",
+        "lieu": "St germain de marencennes · Sur site",
+        "experience": "Formation à Arduino en cours du soir à des jeunes collégiens/Lycéens",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C2270372071%29&trackingId=Y2DeoOXyR2S8Pru6kEv%2FWw%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Formateur informatique",
+        "entreprise": "FOYER RURAL ST MARD BREUIL REORTE · Indépendant",
+        "date": "2018 - mai 2020 · 2 ans 5 mois",
+        "lieu": "St Mard ",
+        "experience": "Formation sur l'informatique à une quinzaine de personnes à raison de 2h par semaine",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696159578%29&trackingId=KpNLaw7%2FSMmE6tWDiysb6g%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Développeur web",
+        "entreprise": "Gîte de Montifaud · Freelance",
+        "date": "2020 · Moins d’un an",
+        "lieu": "St Mard ",
+        "experience": "Formation sur l'informatique à une quinzaine de personnes à raison de 2h par semaine",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1693789571%29&trackingId=9K0JZbE%2FQ8qjAvTsxCJWCA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Formateur informatique",
+        "entreprise": "CAC · Indépendant",
+        "date": "2017 - août 2019 · 2 ans 8 mois",
+        "lieu": "Surgères, Nouvelle-Aquitaine, France",
+        "experience": "Installation réseau, formation linux et blender, rénovation et dépannage ordinateur",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696162276%29&trackingId=6IbVn77qQwyaBnH3ABM2bQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Concepteur électronique",
+        "entreprise": "Hans · Indépendant",
+        "date": "2019 · Moins d’un an",
+        "lieu": "Surgères, Nouvelle-Aquitaine, France",
+        "experience": "Réalisation d'un capteur de température et d'humidité pour frigo industriel sur Arduino",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696158514%29&trackingId=HlWXySbXTMaA88gFRFSHVQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Formateur informatique",
+        "entreprise": "Accorderie de Surgères · Indépendant",
+        "date": "2016 - 2017 · 1 an",
+        "lieu": "Surgères, Nouvelle-Aquitaine, France",
+        "experience": "Formation informatique pour débutant une fois par mois sous windows",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696161365%29&trackingId=WlL3PMDhSWawgHoWr%2BI6KA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "cadot.info",
+        "entreprise": "Indépendant · 16 ans 1 mois",
+        "date": "2012 - 2014 · 2 ans",
+        "lieu": "trappes",
+        "experience": "Réalisation de 3 cnc (machine à commande numérique) 3 axes sur base arduino, entièrement réalisé",
+        "image": [
+            "https://www.linkedin.com/search/results/all/?keywords=cadot%2Einfo",
+            "https://www.linkedin.com/search/results/all/?keywords=cadot%2Einfo",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696157869%29&trackingId=yO5d5by9SXaofS1B89uPpg%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/search/results/all/?keywords=cadot%2Einfo",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696154289%29&trackingId=krWwBPTgSWm0a6bU62729w%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Concepteur électronique",
+        "entreprise": "Indépendant · 16 ans 1 mois",
+        "date": "2012 - 2014 · 2 ans",
+        "lieu": "trappes",
+        "experience": "Réalisation de 3 cnc (machine à commande numérique) 3 axes sur base arduino, entièrement réalisé",
+        "image": [
+            "https://www.linkedin.com/search/results/all/?keywords=cadot%2Einfo",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696157869%29&trackingId=yO5d5by9SXaofS1B89uPpg%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Conseiller en achats et dépanneur, installateur informatique",
+        "entreprise": "Indépendant · 16 ans 1 mois",
+        "date": "1998 - 2014 · 16 ans",
+        "lieu": "Trappes yvelines france",
+        "experience": "Conseil, montage, installation, configuration et dépannage de pc sous windows.",
+        "image": [
+            "https://www.linkedin.com/search/results/all/?keywords=cadot%2Einfo",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696154289%29&trackingId=krWwBPTgSWm0a6bU62729w%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "SNCF",
+        "entreprise": "16 ans 1 mois",
+        "date": "1997 - 2013 · 16 ans",
+        "lieu": "Versailles, Île-de-France, France",
+        "experience": "Conducteur de train",
+        "image": [
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155733%29&trackingId=L1DdyW4eTty20saxiJHKUw%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696153625%29&trackingId=%2BPUu%2FW7KQHSIm2MSP8nkPA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696154346%29&trackingId=ZXI4taK7SkWysOxCZV%2BLRA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN",
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155784%29&trackingId=wvhhAZ%2FNSfCAIl%2B6oysejQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Conducteur de train",
+        "entreprise": "CDI temps partiel",
+        "date": "1997 - 2013 · 16 ans",
+        "lieu": "Versailles, Île-de-France, France",
+        "experience": "Conducteur de train",
+        "image": [
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155733%29&trackingId=L1DdyW4eTty20saxiJHKUw%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Développeur applications",
+        "entreprise": "Indépendant",
+        "date": "janv. 2002 - juil. 2002 · 7 mois",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Développement d'un prototype de simulateur de train en visual basic avec modification des vidéos en temps réel avec insertion d'objets, modifications de la couleur des signaux...",
+        "image": [
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696153625%29&trackingId=%2BPUu%2FW7KQHSIm2MSP8nkPA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Développeur applications",
+        "entreprise": "Indépendant",
+        "date": "janv. 2001 - avr. 2001 · 4 mois",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Développement d'une application communicante sur palm pour visionner les agendas des agents.",
+        "image": [
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696154346%29&trackingId=ZXI4taK7SkWysOxCZV%2BLRA%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Formation d'attaché TS (cadre gestion des équipes)",
+        "entreprise": "Indépendant",
+        "date": "1997 - 1998 · 1 an",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Formation SNCF pour être responsable d'équipe.",
+        "image": [
+            "https://www.linkedin.com/company/166019/",
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155784%29&trackingId=wvhhAZ%2FNSfCAIl%2B6oysejQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Formateur informatique",
+        "entreprise": "Indépendant",
+        "date": "2012 · Moins d’un an",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Formation Blender à une dizaine de personnes",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696158593%29&trackingId=SkYJ%2F6oURIagt4eCNXlv9w%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Responsable infrastructure informatique",
+        "entreprise": "FEDERATION SYNDICALISTE FORCE OUVRIERE DES CHEMINOTS · Indépendant",
+        "date": "juin 2008 - sept. 2008 · 4 mois",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Responsable du parc informatique, installation d'un serveur pour partage de fichier.",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696156291%29&trackingId=MzYma77WTHOBxVFqYGQQBw%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Développeur web principal",
+        "entreprise": "le trepied · Freelance",
+        "date": "2000 - 2001 · 1 an",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Réalisation d'un prototype de site web marchant pour la vente de matériel vidéo et audio réservé aux professionnel.",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155181%29&trackingId=2APWXDW6Sxe%2FYfBCJa01KQ%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Spécialiste assistance informatique",
+        "entreprise": "Armée de Terre · CDD",
+        "date": "nov. 1996 - sept. 1997 · 11 mois",
+        "lieu": "Ville de Paris, Île-de-France, France",
+        "experience": "Dépannage du parc informatique des invalides, installation et supervision réseau.",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155347%29&trackingId=KHB6IY4sRz2ykPCa%2Bp5Rlg%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    },
+    {
+        "poste": "Dessinateur industriel CAO",
+        "entreprise": "Grace S.A. · CDD",
+        "date": "juin 1995 - sept. 1995 · 4 mois",
+        "lieu": "Épernon, Centre-Val de Loire, France",
+        "experience": "Développement d'une librairie pour Autocad en Lisp et dcl.",
+        "image": [
+            "https://www.linkedin.com/in/michael-cadot/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAADMYcqYBk6Kmg7IQeREfu7UOAsy5MTIiIS0%2C1696155118%29&trackingId=43QaZ3kmQsaSEeqArzqZlg%3D%3D&desktopBackground=PROFILE_DETAIL_SCREEN"
+        ]
+    }
+]
